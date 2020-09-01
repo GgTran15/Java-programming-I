@@ -1,7 +1,5 @@
 //Gg Tran
-//CSE 142 11/17/2017
-//TA: Eli Son
-//HW 6
+//11/17/2017
 //This program creates mad lib stories from user's input
 
 

@@ -1,8 +1,5 @@
 // Gg Tran
-// Whitaker Brand
 // 10/11/17
-// CSE142
-// TA: Eli Son
 // HW #2
 
 public class SpaceNeedle {

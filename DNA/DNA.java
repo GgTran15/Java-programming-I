@@ -1,7 +1,5 @@
 //Gg Tran
-//CSE 142
 //11/23/2017
-//HW #7
 //This program reads an input file containing named sequences of nucleotides 
 //and produce information about them, such as: region name, nucleotide sequence, 
 //number of each unique nucleotide, mass percentages, and whether the sequence is protein DNA

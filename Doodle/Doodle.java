@@ -1,9 +1,5 @@
-// Whitaker Brand
+// Gg Tran
 // 10/16/17
-// CSE142
-// TA:  Eli Son
-// Assignment #3
-//
 // This program will draw a random figure
 
 import java.awt.*;

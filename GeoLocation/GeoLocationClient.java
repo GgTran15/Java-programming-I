@@ -1,5 +1,4 @@
 //Gg Tran
-//HW 8 Part B
 //THis program creates GeoLocation objects
 //and prints out their latitudes, longitudes as well as the distances 
 //between the objects

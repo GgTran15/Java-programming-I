@@ -1,6 +1,4 @@
 //Gg Tran  
-//CSE 142
-//HW 8 Part C
 //The PlaceInformation class stores information about a place
 //Including its name, address, tag, location. The class's methods return
 //each piece of information, and compute the distance between the place 

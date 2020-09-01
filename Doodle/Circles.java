@@ -1,9 +1,5 @@
 // Whitaker Brand
 // 10/16/17
-// CSE142
-// TA:  Eli Son
-// Assignment #3
-//
 // This program will draw 7 figures
 
 

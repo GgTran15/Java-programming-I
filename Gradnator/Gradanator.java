@@ -1,8 +1,5 @@
 // Gg Tran
 // 10/24/17
-// CSE142
-// TA:  Eli Son
-// Assignment #4
 // This program reads exam/homework scoresS
      //and reports your overall course grade.
 
